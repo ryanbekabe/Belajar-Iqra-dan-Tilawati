@@ -1,8 +1,11 @@
 ﻿<resources>
     <string name="app_name">Belajar Iqra dan Tilawati</string>
-    <string name="title_iqra">Belajar Huruf Hijaiyah</string>
-    <string name="subtitle_iqra">Sentuh dengarkan dan ulangi bacaan</string>
+    <string name="title_iqra">Belajar Iqra Anak Muslim</string>
+    <string name="subtitle_iqra">Pilih mode belajar huruf dan Iqra</string>
+    <string name="mode_huruf">Huruf Hijaiyah</string>
+    <string name="mode_iqra_format">Iqra %1$d</string>
     <string name="label_huruf_ke">Huruf ke-%1$d dari %2$d</string>
+    <string name="label_halaman_ke">Halaman %1$d dari %2$d</string>
     <string name="btn_prev">Sebelumnya</string>
     <string name="btn_next">Berikutnya</string>
     <string name="btn_listen">Dengarkan</string>
